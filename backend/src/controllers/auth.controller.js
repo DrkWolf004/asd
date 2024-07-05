@@ -1,6 +1,8 @@
 "use strict";
 //pene
 //mascota 1
+//queso
+//a
 // Importa el modelo de datos 'Role'
 import Role from "../models/role.model.js";
 // Importa el modelo de datos 'User'
